@@ -9,7 +9,7 @@ using System.Web;
 namespace ShoppingCart_ASP.NET_MVC5.Controllers
 {
     public class ProductDetails
-    {
+    { 
         public static List<Product> callme()
         {
             List<Product> pro = new List<Product>();

@@ -14,7 +14,7 @@ namespace ShoppingCart_ASP.NET_MVC5.Models
         public string pro_desc { get; set; }
 
         public int pro_price { get; set; }
-
+         
         public string pro_image { get; set; }
 
         public int count { get; set; } 

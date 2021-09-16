@@ -8,7 +8,7 @@ using System.Web;
 
 namespace ShoppingCart_ASP.NET_MVC5.Dao
 {
-    public class PurchaseHistory
+    public class PurchaseHistory 
     {
         public static List<AllItemList> allhistory(string customer_id)
         {

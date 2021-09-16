@@ -16,4 +16,4 @@ namespace ShoppingCart_ASP.NET_MVC5.Models
         public DateTime purchase_time { get; set; }
         public int count { get; set; }
     }
-}
+} 

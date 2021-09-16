@@ -117,7 +117,7 @@ namespace ShoppingCart_ASP.NET_MVC5.Controllers
         }
 
         public ActionResult MyPurchases()
-        {
+        { 
             string customer_id = Request.Cookies["customer_id"].Value;
             List<PurchaseItems> allitems = new List<PurchaseItems>();
             using (SqlConnection conn = new SqlConnection("Server=.; Database=ShoppingCartT4; Integrated Security=true; MultipleActiveResultSets=True"))

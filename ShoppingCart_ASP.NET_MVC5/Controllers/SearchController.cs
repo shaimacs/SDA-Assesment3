@@ -11,7 +11,7 @@ namespace ShoppingCart_ASP.NET_MVC5.Controllers
 {
     [SessionExpire]
     public class SearchController : Controller
-    {
+    { 
         
         public ActionResult Partial(string search)
 

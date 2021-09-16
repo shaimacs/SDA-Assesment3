@@ -8,7 +8,7 @@ using System.Web.Mvc;
 
 namespace ShoppingCart_ASP.NET_MVC5.Controllers
 {
-    public class SessionManagement
+    public class SessionManagement 
     { 
         //Creating Session
         public static string CreateSession(int customer_id)

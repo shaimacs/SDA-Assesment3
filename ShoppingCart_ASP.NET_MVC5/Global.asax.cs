@@ -18,4 +18,4 @@ namespace ShoppingCart_ASP.NET_MVC5
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
     }
-}
+} 

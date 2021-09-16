@@ -8,7 +8,7 @@ using System.Web;
 namespace ShoppingCart_ASP.NET_MVC5.Controllers
 {
     public class CustomerDetails
-    {
+    { 
         public static Customer GetCustomer(string username)
 
         {
